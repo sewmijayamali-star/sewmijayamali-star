@@ -4,7 +4,7 @@
 
 I'm a third-year ICT undergraduate at the University of Sri Jayewardenepura, passionate about developing modern web and mobile applications and building practical software solutions.
 
-- 🎓 Specializing in Software Engineering
+- 🎓 Specializing in Software Technology
 - 💻 Interested in Full-Stack Development
 - 🌱 Currently exploring AI integration and cloud technologies
 - 🚀 Always learning and building new things
